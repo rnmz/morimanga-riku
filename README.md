@@ -6,15 +6,9 @@
 
 ---
 ### How to use:
-1. Download:
-- [**extensions**](https://github.com/Morimanga/extensions)
-2. Add extensions in this project. Path should be:
-```<path_to_project>/riku/extensions```
+Run: cd /path/to/morimanga && chmod +x ./gradlew && ./gradlew build && ./gradlew run
 
-
-3. Run: cd /path/to/morimanga && chmod +x ./gradlew && ./gradlew build && ./gradlew run
-  
-4. Server will run on localhost:8080
+Server will run on localhost:8080
 
 ---
 **TODO**:
